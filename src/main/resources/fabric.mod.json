@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "celibfabric",
+  "version": "${version}",
+  "name": "CeLib Fabric",
+  "description": "Fabric-Side API with a lot of helpful methods and utilities.",
+  "authors": [
+    "Cxlina"
+  ],
+  "contact": {
+    "website": "celinadev.de"
+  },
+  "license": "MIT",
+  "icon": "assets/celibfabric/icon.png",
+  "environment": "*",
+  "entrypoints": {},
+  "depends": {
+    "fabricloader": ">=0.14.8",
+    "fabric": "*",
+    "minecraft": "1.19"
+  }
+}
